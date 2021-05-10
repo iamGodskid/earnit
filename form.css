@@ -1,0 +1,45 @@
+body{
+      background-color: black;
+    }
+      .major{
+        background-color: mediumseagreen;
+        box-sizing: border-box;
+        margin: 0 auto;
+        max-height: 80%;
+        max-width: 80%;
+        border-radius: 15px;
+      }
+      h3{
+        color: white;
+        font-size: 20px;
+        text-shadow: 2px 2px 3px black;
+        text-align: center;
+      }
+      #n{
+        background-color: white;
+        height: 25px;
+        width: 80%;
+        border-radius: 10px;
+      }
+     #n:hover{
+        background-color: dodgerblue;
+        height: 25px;
+        width: 90%;
+        border-radius: 10px;
+      }
+     img{
+       height: 50px;
+       width: 40px;
+       border-radius: 30px;
+     } 
+      #submit{
+        height: 35px;
+        width: 60px;
+        border-radius: 10px;
+        background-color: dodgerblue;
+      }
+      #submit:hover{
+        width: 50px;
+        background-color: white;
+        border-radius: 15px;
+      }

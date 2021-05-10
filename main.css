@@ -1,0 +1,73 @@
+  <style type="text/css">
+      body{
+        background-image: url("download-1.jpg");
+        max-height: 100%;
+        max-width: 100%;
+        padding: none;
+        background-attachment: fixed;
+      }
+      h2{
+        font-family: Monospace;
+        color: white;
+        font-size: 15px;
+        text-shadow: 2px 3px 4px black;
+        animation-name: h;
+        animation-duration: 5;
+        
+      }
+      nav{
+        float: right;
+        font-size: 14px;
+        font-weight: bold;
+      }
+      a:hover{
+        color: white;
+        text-shadow: 2px 2px 2px blue;
+      }
+      .head{
+        background-color: mediumseagreen;
+        height: 50px;
+        max-width: 100%;
+        padding-left: 3px;
+        padding-right: 3px;
+        position: sticky;
+        position: -webkit-sticky;
+        border-radius: 5px;
+        color: white;
+        font-size: 13px;
+        font-weight: bold-italic;
+        background-attachment: fixed;
+        
+      }
+      p{
+        color: white;
+      }
+      #main{
+        box-sizing: border-box;
+        max-height: 80%;
+        max-width: 98%;
+        border-radius: 10px;
+        margin: 0 auto;
+        box-shadow: 2px 3px 4px mediumseagreen;
+        background-color: white;
+      }
+      img{
+        height: 50px;
+        width: 70px;
+        border-radius: 10px;
+      }
+      #task{
+box-sizing: border-box;
+        max-height: 70%;
+        max-width: 100%;
+        border-radius: 10px;
+        margin: 0 auto;
+        box-shadow: 2px 3px 4px white;
+        background-color: mediumseagreen;
+      }
+      h1{
+        color: mediumseagreen;
+        font-family: Monospace;
+        background-color: white;
+      }
+    </style>
